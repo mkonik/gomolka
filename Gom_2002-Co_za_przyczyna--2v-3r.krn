@@ -1,0 +1,127 @@
+!!!COM: Gomółka, Mikołaj
+!!!CDT: ~1535-after 1591
+!!!OTL@POL: Co za przyczyna
+!!!OTL@LAT: Quare fremuerunt gentes
+!!!AGn: Motet; Psalm
+!!!SCn: Gom2002
+!!!SCn: Gom2002
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Altus	*I"Cantus
+*I'B	*I'T	*I'A	*I'C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+1A	1c	1e	1a
+[1F	2.c	[1f	2.a
+.	4B	.	4g
+=2	=2	=2	=2
+2F]	4c	2f]	4a
+.	4d	.	4b
+2C	2e	4e	1cc
+.	.	4f	.
+1G	1d	2.g	.
+.	.	.	2b
+.	.	4f	.
+=3	=3	=3	=3
+2C	2c	4e	2cc
+.	.	4d	.
+1c	1e	2.c	1g
+.	.	4d	.
+2A	2c	2e	4cc
+.	.	.	4b
+=4	=4	=4	=4
+4c	4e	2A	4a
+4B	4d	.	4g
+4A	4c	2d	1g
+4G	4B	.	.
+1A	4c	2c	.
+.	2d	.	.
+.	.	2A	2f#i
+.	4c	.	.
+=5	=5	=5	=5
+2G	2d	2B	2g
+2E	2G	2e	2b
+2D#	1B	2f#	2.b
+2E	.	2g	.
+.	.	.	4cc
+=6	=6	=6	=6
+2F#	2A	2a	2dd
+2G	2B	4g	2dd
+.	.	4f	.
+2A	2c	2.e	2cc
+2AA	2c	.	2a
+.	.	4f	.
+=7	=7	=7	=7
+2E	2B	2g	2b
+2G	2B	1e	4a
+.	.	.	4g
+1F	2.A	.	1a
+.	.	2d	.
+.	4B	.	.
+=8	=8	=8	=8
+2C	4c	2e	2g
+.	4d	.	.
+2c	2e	2.e	2g
+2c	2e	.	2a
+.	.	4f	.
+2B	[2d	2g	2b
+=9	=9	=9	=9
+1A	2d]	2g	1cc
+.	2c	2f#i	.
+2G	2d	2g	2b
+2c	2e	2g	2cc
+=10	=10	=10	=10
+2G	2d	2g	2dd
+2A	2c	2e	2cc
+2F	2f	2a	2cc
+2G	2d	4g	2b
+.	.	4f	.
+=11	=11	=11	=11
+2C	4c	2e	2cc
+.	4d	.	.
+2AA	2e	2a	2cc
+2C	2e	2g	2cc
+2D	[2d	[2f	2b
+=12	=12	=12	=12
+1F	4d]	2f]	1a
+.	4c	.	.
+.	4B	2d	.
+.	4A	.	.
+2E	2B	2e	2g
+[2A	[2A	[2e	[2cc
+=13	=13	=13	=13
+2A]	2A]	2e]	2cc]
+2G	2B	2e	2b
+2F	2c	2f	2a
+2D	4d	2f	[2a
+.	4c	.	.
+=14	=14	=14	=14
+1E	4B	2.e	2a]
+.	4A	.	.
+.	2B	.	2g#i
+.	.	4d	.
+1AA	1A	1c#i	1a
+==	==	==	==
+*-	*-	*-	*-
+!!!CNT: Polish
+!!!OCY: Poland
+!!!LYR: Jan Kochanowski (1530-1584/08/22)
+!!!GTL: Melodiae na Psałterz Polski
+!!!EFL: 2/150
+!!!PPR: Łazarz Andrysowicz
+!!!PPP: Kraków
+!!!PDT: 1580
+!!!YEC: 2015 Marcin Konik
+!!!ENC: Marcin Konik
+!!!END: 2015/03/06
+!!!EED: Marcin Konik
+!!!EEV: 2015/03/06
+!!!ONB: Translated from MusicXML and edited on 2015/03/06 by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!muse2ps: i2I150v85,85,85,150Q16
+!!title: @{OTL}, @{GTL}, ed. @{ENC}

@@ -1,0 +1,133 @@
+!!!COM: Gomółka, Mikołaj
+!!!CDT: ~1535-after 1591
+!!!OTL@POL: Mocny Boże
+!!!OTL@LAT: Domine, quid multiplicati sunt
+!!!AGn: Motet; Psalm
+!!!SCn: Gom2003
+!!!SCn: Gom2003
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Altus	*I"Cantus
+*I'B	*I'T	*I'A	*I'C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+0AA	0A	0c#	0e
+=2	=2	=2	=2
+1D	1A	1d	1f
+1D	1A	1d	1f
+=3	=3	=3	=3
+2E	2G#	2B	2e
+2AA	2A	2e	2a
+2E	2B	2e	2g#i
+2AA	2c	2e	2a
+=4	=4	=4	=4
+1D	2.d	4f	1f
+.	.	4g	.
+.	.	1a	.
+.	4c	.	.
+2E	2B	.	2e
+2E	2B	2g#	[2e
+=5	=5	=5	=5
+1F	1A	1a	2e]
+.	.	.	2d
+2E	2B	2g#	2e
+2E	[2e	2g#	2b
+=6	=6	=6	=6
+1.A	4e]	2a	1.cc
+.	4d	.	.
+.	4c	2e	.
+.	4B	.	.
+.	2A	2e	.
+2G#	2B	[2e	2b
+=7	=7	=7	=7
+2A	2c	2e]	2a
+2F	2A	2d	2a
+2E	2B	2e	2g
+2BB	2B	2f#	2dd
+=8	=8	=8	=8
+2C	2e	4e	2cc
+.	.	4f#i	.
+2GG	2d	2g	2.b
+2AA	2c	2e	.
+.	.	.	4a
+2D	4d	2f#	[2a
+.	4c	.	.
+=9	=9	=9	=9
+1E	4B	2.e	2a]
+.	4A	.	.
+.	2B	.	2g#i
+.	.	4d	.
+2AA	2A	2c	2a
+2A	2e	2c	2cc
+=10	=10	=10	=10
+2F	2g	2A	2cc
+2G	2d	2B	2b
+2A	2c	2e	2a
+2D	2d	2f	2a
+=11	=11	=11	=11
+2E	2B	2e	2g
+2AA	2c	2e	2a
+2E	2.c	2e	4e
+.	.	.	4f
+2C	.	2e	4g
+.	4B	.	4e
+=12	=12	=12	=12
+2F	2A	4c	4f
+.	.	4B	4g
+2F	2A	4c	4a
+.	.	4d	4b
+2E	2G	4e	2cc
+.	.	4f	.
+2E	2G	2g	2b
+=13	=13	=13	=13
+2D	4A	2f	2dd
+.	4B	.	.
+1A	4c	2.e	2cc
+.	4d	.	.
+.	2e	.	1b
+.	.	4f	.
+2G	2B	4g	.
+.	.	4e	.
+=14	=14	=14	=14
+2F	4c	2f	2a
+.	4A	.	.
+2E	4c	2g	2g
+.	4d	.	.
+2C	2e	2g	2cc
+2D	[2d	[2f	[2b
+=15	=15	=15	=15
+2F	4d]	4f]	4b]
+.	4c	4e	4a
+2F	4c	2d	4a
+.	8BL	.	8gL
+.	8AJ	.	8fJ
+1E	4B	2.e	4g
+.	4c	.	4a
+.	2B	.	2g#i
+.	.	4d	.
+=16	=16	=16	=16
+0AA	0A	0c#	0a
+==	==	==	==
+*-	*-	*-	*-
+!!!CNT: Polish
+!!!OCY: Poland
+!!!LYR: Jan Kochanowski (1530-1584/08/22)
+!!!GTL: Melodiae na Psałterz Polski
+!!!EFL: 3/150
+!!!PPR: Łazarz Andrysowicz
+!!!PPP: Kraków
+!!!PDT: 1580
+!!!YEC: 2015 Marcin Konik
+!!!ENC: Marcin Konik
+!!!END: 2015/03/06
+!!!EED: Marcin Konik
+!!!EEV: 2015/03/06
+!!!ONB: Translated from MusicXML and edited on 2015/03/06 by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!muse2ps: i2I150v85,85,85,150Q16
+!!title: @{OTL}, @{GTL}, ed. @{ENC}

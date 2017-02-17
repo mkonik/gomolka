@@ -1,0 +1,143 @@
+!!!COM: Gomółka, Mikołaj
+!!!CDT: ~1535-after 1591
+!!!OTL@POL: Dokąd mię chcesz zapomnieć
+!!!OTL@LAT: Usquequo Domine
+!!!AGn: Motet; Psalm
+!!!SCn: Gom2013
+!!!SCn: Gom2013
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Altus	*I"Cantus
+*I'B	*I'T	*I'A	*I'C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+1D	1d	1f	1a
+2A	2c#	2e	2a
+2D	2d	2f	2a
+=2	=2	=2	=2
+2A	2e	2a	2cc
+2F	4f	2a	2cc
+.	4e	.	.
+1G	4d	2.g	1b-
+.	4c	.	.
+.	2d	.	.
+.	.	4f	.
+=3	=3	=3	=3
+2A	2c	2e	2a
+2D	2d	2f	2a
+1C	1e	1g	1cc
+=4	=4	=4	=4
+2D	2.d	2f	2b
+2D	.	2f	1a
+.	4c	.	.
+1E	4B	2.e	.
+.	4A	.	.
+.	2B	.	2g#i
+.	.	4d	.
+=5	=5	=5	=5
+*M1/1	*M1/1	*M1/1	*M1/1
+1AA	1A	1c#	1a
+=6	=6	=6	=6
+*M2/1	*M2/1	*M2/1	*M2/1
+1D	1d	1f	1a
+2A	2c#	2e	2a
+2D	2d	2f	2a
+=7	=7	=7	=7
+2A	2e	2a	2cc
+2F	4f	2a	2cc
+.	4e	.	.
+1G	4d	2.g	1b-
+.	4c	.	.
+.	2d	.	.
+.	.	4f	.
+=8	=8	=8	=8
+2A	2c	2e	2a
+2D	2d	2f	2a
+1C	1e	1g	1cc
+=9	=9	=9	=9
+2D	2.d	2f	2b
+2D	.	2f	1a
+.	4c	.	.
+1E	4B	2.e	.
+.	4A	.	.
+.	2B	.	2g#i
+.	.	4d	.
+=10	=10	=10	=10
+*M1/1	*M1/1	*M1/1	*M1/1
+1AA	1A	1c#	1a
+=11	=11	=11	=11
+1D	1A	1d	1f#
+=12	=12	=12	=12
+*M2/1	*M2/1	*M2/1	*M2/1
+2GG	2B	2d	1g
+2C	2c	2e	.
+2BB-	2.d	2.f	2b-
+2FF	.	.	2a
+.	4c	4e	.
+=13	=13	=13	=13
+1GG	4B	4d	2g
+.	4A	4c	.
+.	2B	2d	2g
+2D	2A	2d	2f#
+2D	2f	2d	2a
+=14	=14	=14	=14
+2GG	4g	2d	4b
+.	4f	.	4cc
+2BB	4e	2d	2dd
+.	4d	.	.
+2AA	2e	2.a	2dd
+2AA	2e	.	2cc#i
+.	.	4g	.
+=15	=15	=15	=15
+2D	2d	2f#	2dd
+2D	2d	2f#	2a
+2A	2c#	2e	2a
+2D	2d	2f#	2a
+=16	=16	=16	=16
+2A	2e	2a	2cc
+2F	4f	2a	2cc
+.	4e	.	.
+1G	4d	2.g	1b-
+.	4c	.	.
+.	2d	.	.
+.	.	4f	.
+=17	=17	=17	=17
+2A	2.c	2.e	2.a
+2AA	.	.	.
+.	4B	4d	4g
+2D	2A	2d	2f
+2E	4G	2B	4e
+.	4A	.	4f
+=18	=18	=18	=18
+2C	4G	4c	4e
+.	4F	4B	4d
+2D	4E	4A	1d
+.	4D	4G	.
+1AA	1E	1A	.
+.	.	.	2c#i
+=19	=19	=19	=19
+0D	0D	0A	0d
+==	==	==	==
+*-	*-	*-	*-
+!!!CNT: Polish
+!!!OCY: Poland
+!!!LYR: Jan Kochanowski (1530-1584/08/22)
+!!!GTL: Melodiae na Psałterz Polski
+!!!EFL: 13/150
+!!!PPR: Łazarz Andrysowicz
+!!!PPP: Kraków
+!!!PDT: 1580
+!!!YEC: 2015 Marcin Konik
+!!!ENC: Marcin Konik
+!!!END: 2015/03/06
+!!!EED: Marcin Konik
+!!!EEV: 2015/03/06
+!!!ONB: Translated from MusicXML and edited on 2015/03/06 by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!muse2ps: i2I150v85,85,85,150Q16
+!!title: @{OTL}, @{GTL}, ed. @{ENC}

@@ -1,0 +1,105 @@
+!!!COM: Gomółka, Mikołaj
+!!!CDT: ~1535-after 1591
+!!!OTL@POL: Będę Cię wielbił
+!!!OTL@LAT: Exaltabo te, Domine
+!!!AGn: Motet; Psalm
+!!!SCn: Gom2030
+!!!SCn: Gom2030
+!!!voices: 4
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Altus	*I"Cantus
+*I'B	*I'T	*I'A	*I'C
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+1G	1B	1d	1g
+2E	2B	2.e	2g
+2C	2c	.	2cc
+.	.	4f	.
+=2	=2	=2	=2
+1G	1d	2g	2.b
+.	.	2g	.
+.	.	.	4cc
+2G	2B	2g	2dd
+2E	[2c	2g	2ee
+=3	=3	=3	=3
+1A	2c]	2e	1cc
+.	2c	2f#	.
+2G	2d	2g	2b
+2c	2e	4c	2g
+.	.	4d	.
+=4	=4	=4	=4
+2c	2e	4e	2g
+.	.	4f	.
+2B	2d	2g	2g
+2.A	1c	1e	2.cc
+4G	.	.	4b
+=5	=5	=5	=5
+2F	2c	2f	2a
+2G	2B	2d	1g
+1D	1A	2.d	.
+.	.	.	2f#i
+.	.	4c	.
+=6	=6	=6	=6
+1G	1G	1B	1g
+1G	1d	1g	1b
+=7	=7	=7	=7
+2G	2d	2g	2b
+4F	2e	1g	2cc
+4E	.	.	.
+4D	1f	.	1dd
+4C	.	.	.
+2D	.	2f	.
+=8	=8	=8	=8
+2C	2e	2g	2g
+1c	4d	4f	1a
+.	4c	4e	.
+.	1d	2f	.
+2B	.	4e	4g
+.	.	4d	4f
+=9	=9	=9	=9
+2c	2c	2e	2a
+2c	2e	4c	2.g
+.	.	4d	.
+2c	2e	4e	.
+.	.	4f	4a
+2B	2d	2g	2b
+=10	=10	=10	=10
+2.A	1c	2e	2.cc
+.	.	2e	.
+4G	.	.	4b
+2F	2c	2f	2a
+[2G	[2B	2d	2g
+=11	=11	=11	=11
+2G]	2B]	1e	2g
+2C	4c	.	4f#
+.	4B	.	4e
+1D	4A	2.d	4f#
+.	4G	.	2g
+.	2A	.	.
+.	.	4c	4f#
+=12	=12	=12	=12
+0G	0G	0B	0g
+==	==	==	==
+*-	*-	*-	*-
+!!!CNT: Polish
+!!!OCY: Poland
+!!!LYR: Jan Kochanowski (1530-1584/08/22)
+!!!GTL: Melodiae na Psałterz Polski
+!!!EFL: 30/150
+!!!PPR: Łazarz Andrysowicz
+!!!PPP: Kraków
+!!!PDT: 1580
+!!!YEC: 2015 Marcin Konik
+!!!ENC: Marcin Konik
+!!!END: 2015/05/19
+!!!EED: Marcin Konik
+!!!EEV: 2015/05/19
+!!!ONB: Translated from MusicXML and edited on 2015/03/06 by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!muse2ps: i2I150v85,85,85,150Q16
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
