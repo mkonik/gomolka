@@ -1,0 +1,88 @@
+!!!COM: Gomółka, Mikołaj
+!!!CDT: ~1535-after 1591
+!!!OTL: Obrońcá wieczny
+!!!OTL@LAT: Indica domine nocentes me
+!!!AGn: Motet; Psalm
+!!!SCn: Gom2035
+!!!voices: 4
+!!!CNT: Polish
+!!!OCY: Poland
+!!!LYR: Jan Kochanowski (1530-1584/08/22)
+!!!GTL: Melodiae na Psałterz Polski
+!!!EFL: 35/150
+!!!PPR: Łazarz Andrysowicz
+!!!PPP: Kraków
+!!!PDT: 1580
+!!!YEC: 2015 Marcin Konik
+!!!ENC: Marcin Konik
+!!!END: 2015/05/19
+!!!EED: Marcin Konik
+!!!EEV: 2015/05/19
+!!!ONB: Translated from MusicXM and edited on 2015/03/06 by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!muse2ps: i2I150v85,85,85,150Q16
+**kern	**kern	**kern	**kern
+*staff4	*staff3	*staff2	*staff1
+*Ivox	*Ivox	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Altus	*I"Cantus
+*I'B	*I'T	*I'A	*I'C
+*clefF4	*clefC4	*clefC3	*clefC1
+*k[]	*k[]	*k[]	*k[]
+*M2/1	*M2/1	*M2/1	*M2/1
+*met(C|)	*met(C|)	*met(C|)	*met(C|)
+=1-	=1-	=1-	=1-
+1D	1d	1f	1a
+2A	2c	2e	2a
+2A	2c	2e	2a
+=2	=2	=2	=2
+4F	1f	1a	1cc
+4G	.	.	.
+4A	.	.	.
+4B	.	.	.
+2c	2e	2.g	2cc
+2G	2d	.	2b
+.	.	4f	.
+=3	=3	=3	=3
+2A	2.c	2e	2.a
+2F	.	2d	.
+.	8B	.	8g
+.	8A	.	8f
+2E	4B	2.e	4g
+.	4c	.	2a
+2E	2B	.	.
+.	.	4d	4g#
+=4	=4	=4	=4
+1AA	1A	1c#	1a
+1A	1c#	1e	1a
+=5	=5	=5	=5
+2F	2d	2.f	2a
+2F	1c	.	2a
+.	.	4e	.
+1G	.	4d	2.g
+.	.	4c	.
+.	2B	2d	.
+.	.	.	4f
+=6	=6	=6	=6
+2C	4c	2e	2e
+.	4B	.	.
+2D	2A	2d	2f
+2GG	4G	2B-	4e
+.	4F	.	4d
+2BB-	4E	2G	2d
+.	4D	.	.
+=7	=7	=7	=7
+2AA	2E	1A	2d
+2AA	2E	.	2c#
+2D	2D	2A	2d
+2D	2A	2d	2f
+=8	=8	=8	=8
+2GG	2.G	2B-	4e
+.	.	.	4d
+2GG	.	2B-	1d
+.	4F	.	.
+1AA	1E	1A	.
+.	.	.	2c#
+=9	=9	=9	=9
+0D	0D	0A	0d
+==	==	==	==
+*-	*-	*-	*-

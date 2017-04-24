@@ -1,11 +1,28 @@
 !!!COM: Gomółka, Mikołaj
 !!!CDT: ~1535-after 1591
-!!!OTL@POL: Co za przyczyna
+!!!OTL: Co za przyczyna
 !!!OTL@LAT: Quare fremuerunt gentes
 !!!AGn: Motet; Psalm
 !!!SCn: Gom2002
 !!!SCn: Gom2002
 !!!voices: 4
+!!!CNT: Polish
+!!!OCY: Poland
+!!!LYR: Jan Kochanowski (1530-1584/08/22)
+!!!GTL: Melodiae na Psałterz Polski
+!!!EFL: 2/150
+!!!PPR: Łazarz Andrysowicz
+!!!PPP: Kraków
+!!!PDT: 1580
+!!!YEC: 2015 Marcin Konik
+!!!ENC: Marcin Konik
+!!!END: 2015/03/06
+!!!EED: Marcin Konik
+!!!EEV: 2015/03/06
+!!!ONB: Translated from MusicXML and edited on 2015/03/06 by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!muse2ps: i2I150v85,85,85,150Q16
+!!title: @{OTL}, @{GTL}, ed. @{ENC}
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -108,20 +125,3 @@
 1AA	1A	1c#i	1a
 ==	==	==	==
 *-	*-	*-	*-
-!!!CNT: Polish
-!!!OCY: Poland
-!!!LYR: Jan Kochanowski (1530-1584/08/22)
-!!!GTL: Melodiae na Psałterz Polski
-!!!EFL: 2/150
-!!!PPR: Łazarz Andrysowicz
-!!!PPP: Kraków
-!!!PDT: 1580
-!!!YEC: 2015 Marcin Konik
-!!!ENC: Marcin Konik
-!!!END: 2015/03/06
-!!!EED: Marcin Konik
-!!!EEV: 2015/03/06
-!!!ONB: Translated from MusicXML and edited on 2015/03/06 by Marcin Konik
-!!!CharacterEncoding: utf-8
-!!muse2ps: i2I150v85,85,85,150Q16
-!!title: @{OTL}, @{GTL}, ed. @{ENC}
